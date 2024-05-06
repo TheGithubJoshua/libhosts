@@ -1,11 +1,11 @@
-Package: com.ps.letmeblock
-Name: LetMeBlock
+Package: com.joshua.libhosts
+Name: libhosts
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.opa334.libsandy
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Make mDNSResponder care more about /etc/hosts
-Maintainer: PoomSmart
-Author: PoomSmart
+Maintainer: PoomSmart & Joshua Wheeler
+Author: PoomSmart & Joshua Wheeler
 Section: Tweaks
 Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
