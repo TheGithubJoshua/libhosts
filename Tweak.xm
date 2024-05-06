@@ -8,9 +8,9 @@
 
 #define MEMORYSTATUS_CMD_SET_JETSAM_TASK_LIMIT 6
 #define JETSAM_MEMORY_LIMIT 512
-#define DEFAULT_HOSTS_PATH "/etc/hosts"
+#define DEFAULT_HOSTS_PATH "/Library/Tweak Support/Common/hosts"
 #define NEW_HOSTS_PATH ROOT_PATH("/etc/hosts.lmb")
-#define ROOTLESS_NEW_HOSTS_PATH "/var/jb/etc/hosts"
+#define ROOTLESS_NEW_HOSTS_PATH "/var/jb/Library/Tweak Support/Common/hosts"
 
 static FILE *etcHosts;
 
