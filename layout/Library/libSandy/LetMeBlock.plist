@@ -12,7 +12,7 @@
                 <key>ConditionType</key>
                 <string>FileExistance</string>
                 <key>FilePath</key>
-                <string>/var/jb/etc/hosts</string>
+                <string>/var/jb/Library/Tweak Support/Common/hosts</string>
                 <key>Negated</key>
                 <true/>
             </dict>
@@ -25,7 +25,7 @@
                 <key>extension_class</key>
                 <string>com.apple.app-sandbox.read</string>
                 <key>path</key>
-                <string>/var/jb/etc/hosts</string>
+                <string>/var/jb/Library/Tweak Support/Common/hosts</string>
             </dict>
         </array>
     </dict>
